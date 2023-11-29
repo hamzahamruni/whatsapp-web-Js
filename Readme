@@ -1,0 +1,11 @@
+this Pakcage Whatsapp-Web JS
+send message to (contacts,chats,any phone number have whatsapp)
+this pakcage helps you send messages to your customers
+--------------------------------------------------------------
+git clone https://github.com/hamzahamruni/whatsapp-web-Js.git
+open code
+open terminal
+cd server
+npm i express
+npm i whatsapp-web.js
+npm i qrcode-terminal
