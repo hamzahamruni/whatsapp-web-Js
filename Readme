@@ -5,7 +5,7 @@ this pakcage helps you send messages to your customers
 git clone https://github.com/hamzahamruni/whatsapp-web-Js.git
 open code
 open terminal
-cd server
 npm i express
 npm i whatsapp-web.js
 npm i qrcode-terminal
+npm nodemon index.js
